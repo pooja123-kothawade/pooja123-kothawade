@@ -1,16 +1,65 @@
-## Hi there 👋
+<## Hi there 👋
+I am Pooja Kothawade.
 
-<!--
-**pooja123-kothawade/pooja123-kothawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate *Data Analyst* & Aspiring *Full Stack Developer* from India
 
-Here are some ideas to get you started:
+📍 Pune, Maharashtra | 🎓 MCA Student at Sinhgad Institute of Management (2022–2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 About Me
+
+🔭 I’m currently working on enhancing my skillsets in *Data Analytics* and *Full Stack Java Development*  
+🌱 Learning Advanced Excel, Django, and Java Spring Framework  
+📈 Skilled in analyzing, visualizing & presenting data to help drive strategic business decisions  
+🤝 Open to collaboration on real-world data and development projects  
+📫 How to reach me: *shreyaskhandare29@gmail.com* | 📱 +91-8329093141  
+📄 [My Resume]()
+
+---
+
+### 🌐 Connect with Me
+
+- GitHub: [shreyas29032001](https://github.com/shreyas29032001)  
+- LinkedIn: [shreyas-khandare](https://www.linkedin.com/in/shreyas-khandare-/)
+
+---
+
+## 💻 Tools & Technologies
+
+### 🔹 Languages & Frameworks
+- 🐍 Python | ☕ Java | 🛢 SQL  
+- 🌐 HTML5 | 🎨 CSS3 | ⚙ JavaScript  
+
+
+### 🔹 Libraries & Tools
+- 📊 Pandas | ➗ NumPy | 📈 Matplotlib | 🌈 Seaborn  
+- 🐬 MySQL | 🍃 MongoDB | 💾 SQLite  
+- 📉 Power BI | 📊 MS Excel
+
+
+
+---
+
+### 📜 Certifications & Achievements
+
+- 🎓 Google – Data Analytics  
+- 🧠 Cisco – Data Analytics Essentials  
+- ⭐ 4⭐ HackerRank – SQL
+
+---
+
+### 📊 GitHub Stats
+
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas29032001&show_icons=true&theme=gruvbox)
+
+---
+
+ “Without data, you’re just another person with an opinion.” – W. Edwards Deming
+
+---
+
+⭐ Thank you for visiting! Let’s connect, collaborate, and grow together.
+
+
+>
