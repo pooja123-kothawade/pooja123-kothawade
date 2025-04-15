@@ -13,19 +13,19 @@ A passionate *Data Analyst* & Aspiring *Full Stack Developer* from India
 🌱 Learning Advanced Excel, Django, and Java Spring Framework  
 📈 Skilled in analyzing, visualizing & presenting data to help drive strategic business decisions  
 🤝 Open to collaboration on real-world data and development projects  
-📫 How to reach me: *shreyaskhandare29@gmail.com* | 📱 +91-8329093141  
+📫 How to reach me: *kothawadepooja25@gmail.com* | 📱 +91-9373708692
 📄 [My Resume]()
 
 ---
 
 ### 🌐 Connect with Me
 
-- GitHub: [shreyas29032001](https://github.com/shreyas29032001)  
-- LinkedIn: [shreyas-khandare](https://www.linkedin.com/in/shreyas-khandare-/)
+- GitHub: [Pooja123-kothawade](https://github.com/pooja123-kothawade)  
+- LinkedIn: [Pooja Kothawade](https://www.linkedin.com/in/pooja-kothawade-techpro/)
 
 ---
 
-## 💻 Tools & Technologies
+### 💻 Tools & Technologies
 
 ### 🔹 Languages & Frameworks
 - 🐍 Python | ☕ Java | 🛢 SQL  
@@ -43,15 +43,12 @@ A passionate *Data Analyst* & Aspiring *Full Stack Developer* from India
 
 ### 📜 Certifications & Achievements
 
-- 🎓 Google – Data Analytics  
-- 🧠 Cisco – Data Analytics Essentials  
-- ⭐ 4⭐ HackerRank – SQL
 
 ---
 
 ### 📊 GitHub Stats
 
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas29032001&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
